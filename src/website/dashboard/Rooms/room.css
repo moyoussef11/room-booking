@@ -1,0 +1,23 @@
+.room{
+    background-color: #131923;
+    color: white;
+    min-height: 100vh;
+}
+.room-h{
+    color: #0194FE;
+    font-weight: bold;
+}
+.room-p{
+    font-size: 25px;
+}
+.room-card{
+    background-color: #1C222B;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.moreDetails{
+    background-color: #4e52586c;
+}
